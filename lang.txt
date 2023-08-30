@@ -1,0 +1,48 @@
+idiomas
+
+af Afrikaans
+al Albanés
+ar Árabe
+az Azerbaiyano
+bg Búlgaro
+ca Catalán
+cz Checo
+da Danés
+de Alemán
+el Griego
+en Inglés
+eu Vasco
+fa Persa (farsi)
+fi Finlandés
+fr Francés
+gl Gallego
+he Hebreo
+hi Hindi
+hr Croata
+hu Húngaro
+id Indonesio
+it Italiano
+ja Japonés
+kr Coreano
+la Letón
+lt Lituano
+mk Macedonio
+no Noruego
+nl Holandés
+pl Polaco
+pt Portugués
+pt_br Português Brasil
+ro Rumano
+ru Ruso
+sv, se Sueco
+sk Eslovaco
+sl Esloveno
+sp, es Español
+sr Serbio
+th Tailandés
+tr Turco
+ua, uk Ucraniano
+vi Vietnamita
+zh_cn Chino simplificado
+zh_tw Chino tradicional
+zu Zulú
